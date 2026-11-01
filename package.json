@@ -8,8 +8,8 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.6.1",
-    "astro": "^5.16.8",
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.4.4",
     "marked": "^17.0.1",
     "marked-gfm-heading-id": "^4.1.3"
   },
